@@ -1,0 +1,7 @@
+{
+  "name": "ZenFlow AI - Adaptive Soundscape",
+  "description": "Real-time adaptive soundscapes for Yoga, Anxiety Relief, and Focus. Uses Gemini to generate personalized sessions and camera motion detection to adjust rhythm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
